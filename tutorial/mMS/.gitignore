@@ -1,0 +1,8 @@
+
+*.nc
+*.o
+*.mod
+*.txt
+/movies/
+/outputs/
+/results/
